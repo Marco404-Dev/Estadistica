@@ -2,7 +2,6 @@
 
 ## Curso: Estadística y Probabilidades para Ingeniería
 
-Este material tiene como objetivo introducir los conceptos básicos de **R** y **RStudio**, así como las principales estructuras de datos utilizadas al iniciar en análisis estadístico.  
 Se busca aprender desde la instalación del programa hasta la creación y manipulación de objetos, vectores, matrices y data frames.
 
 ---
