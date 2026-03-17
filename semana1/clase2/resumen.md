@@ -1,6 +1,4 @@
-# Práctica 1 - Introducción a R y RStudio
-
-## Curso: Estadística y Probabilidades para Ingeniería
+# Práctica 1 
 
 Se busca aprender desde la instalación del programa hasta la creación y manipulación de objetos, vectores, matrices y data frames.
 
