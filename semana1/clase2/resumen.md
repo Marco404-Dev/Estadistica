@@ -101,13 +101,13 @@ La empresa desea estudiar cuánto tardan en entregarse los pedidos en su sistema
 
 
 
-## Ejercicio 2: Frecuencia de fallos en una aplicación web
+## Ejercicio 2: Fallos en una aplicación web
 
 ### 1. Variable de estudio, tipo y escala de medición
 
 | Variable | Tipo | Escala de medición |
 |---|---|---|
-| Ocurrencia de error del sistema (sí / no) | Cualitativa nominal dicotómica | Nominal |
+| Presencia de error en la sesión (sí / no) | Cualitativa nominal dicotómica | Nominal |
 
 ### 2. Población, muestra y unidad de análisis
 
@@ -117,18 +117,16 @@ La empresa desea estudiar cuánto tardan en entregarse los pedidos en su sistema
 
 ### 3. Parámetro y estadístico
 
-- **Parámetro:** la proporción real de sesiones de usuario que presentan errores en toda la población.
+- **Parámetro:** la proporción poblacional de sesiones que presentan error después de la actualización.
 - **Estadístico:** la proporción muestral de sesiones con error.
 
-\[
-\hat{p} = \frac{18}{200} = 0.09
-\]
+**Cálculo del estadístico:**
+
+p̂ = 18 / 200 = 0.09
 
 Entonces, el estadístico es **0.09**, es decir, **9 %**.
 
 ### 4. Resumen breve
 
-La empresa desea estimar la frecuencia de fallos en una aplicación web después de una actualización del sistema. Para ello, monitorea 200 sesiones de usuario durante una semana y registra si en cada sesión ocurrió o no un error. La variable estudiada es cualitativa nominal dicotómica, porque solo tiene dos categorías: sí ocurrió error o no ocurrió error. El estadístico obtenido muestra que el **9 %** de las sesiones observadas presentó errores.
-
-
+La empresa desea estimar la frecuencia de fallos en una aplicación web después de una actualización del sistema. Para ello, monitorea 200 sesiones de usuario durante una semana y registra si en cada sesión ocurrió o no un error. La variable estudiada es la presencia de error en la sesión, la cual es cualitativa nominal dicotómica porque solo tiene dos categorías: sí o no. A partir de la muestra, se obtuvo que 18 de 200 sesiones presentaron errores, lo que equivale a un **9 %**.
 
