@@ -69,3 +69,66 @@ Este estudio presentó dos poblaciones.
 ### 4. Texto breve de interpretación
 
 Este estudio tuvo un enfoque cuantitativo, alcance descriptivo y muestreo no probabilístico por conveniencia. Su objetivo fue medir la usabilidad percibida de Google Classroom, Google Drive y Google Meet en el proceso de enseñanza y aprendizaje de la Unsaac durante la pandemia del COVID-19. Para ello se aplicó el cuestionario SUS a docentes y estudiantes, y luego se calculó el puntaje SUS para cada aplicación y rol de usuario. Los resultados mostraron que la usabilidad percibida general fue buena.
+
+
+
+
+
+
+## Ejercicio 1: Tiempo de entrega de pedidos
+
+### 1. Variable de estudio, tipo y escala de medición
+
+| Variable | Tipo | Escala de medición |
+|---|---|---|
+| Tiempo de entrega de pedidos (en horas) | Cuantitativa continua | Razón |
+
+### 2. Población, muestra y unidad de análisis
+
+- **Población:** todos los pedidos del sistema de distribución de la empresa durante el periodo de estudio.
+- **Muestra:** 50 pedidos seleccionados aleatoriamente durante una semana.
+- **Unidad de análisis:** cada pedido.
+
+### 3. Parámetro y estadístico
+
+- **Parámetro:** el tiempo de entrega promedio de todos los pedidos de la población.
+- **Estadístico:** el tiempo de entrega promedio calculado a partir de los 50 pedidos de la muestra.
+
+### 4. Resumen breve
+
+La empresa desea estudiar cuánto tardan en entregarse los pedidos en su sistema de distribución. Para ello, se observa una muestra aleatoria de 50 pedidos y se registra su tiempo de entrega en horas. La variable analizada es cuantitativa continua porque puede tomar valores con decimales, y su escala es de razón porque existe un cero real y se pueden comparar proporciones.
+
+
+
+
+## Ejercicio 2: Frecuencia de fallos en una aplicación web
+
+### 1. Variable de estudio, tipo y escala de medición
+
+| Variable | Tipo | Escala de medición |
+|---|---|---|
+| Ocurrencia de error del sistema (sí / no) | Cualitativa nominal dicotómica | Nominal |
+
+### 2. Población, muestra y unidad de análisis
+
+- **Población:** todas las sesiones de usuario de la aplicación web después de la actualización del sistema.
+- **Muestra:** 200 sesiones de usuario monitoreadas durante una semana.
+- **Unidad de análisis:** cada sesión de usuario.
+
+### 3. Parámetro y estadístico
+
+- **Parámetro:** la proporción real de sesiones de usuario que presentan errores en toda la población.
+- **Estadístico:** la proporción muestral de sesiones con error.
+
+\[
+\hat{p} = \frac{18}{200} = 0.09
+\]
+
+Entonces, el estadístico es **0.09**, es decir, **9 %**.
+
+### 4. Resumen breve
+
+La empresa desea estimar la frecuencia de fallos en una aplicación web después de una actualización del sistema. Para ello, monitorea 200 sesiones de usuario durante una semana y registra si en cada sesión ocurrió o no un error. La variable estudiada es cualitativa nominal dicotómica, porque solo tiene dos categorías: sí ocurrió error o no ocurrió error. El estadístico obtenido muestra que el **9 %** de las sesiones observadas presentó errores.
+
+
+
