@@ -113,7 +113,7 @@ La empresa desea estudiar cuánto tardan en entregarse los pedidos en su sistema
 
 - **Población:** todas las sesiones de usuario de la aplicación web después de la actualización del sistema.
 - **Muestra:** 200 sesiones de usuario monitoreadas durante una semana.
-- **Unidad de análisis:** cada sesión de usuario.
+- **Unidad de análisis:** cada sesión de usuario.  (elemento q se estudia)
 
 ### 3. Parámetro y estadístico
 
