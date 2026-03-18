@@ -130,3 +130,32 @@ Entonces, el estadístico es **0.09**, es decir, **9 %**.
 
 La empresa desea estimar la frecuencia de fallos en una aplicación web después de una actualización del sistema. Para ello, monitorea 200 sesiones de usuario durante una semana y registra si en cada sesión ocurrió o no un error. La variable estudiada es la presencia de error en la sesión, la cual es cualitativa nominal dicotómica porque solo tiene dos categorías: sí o no. A partir de la muestra, se obtuvo que 18 de 200 sesiones presentaron errores, lo que equivale a un **9 %**.
 
+
+
+## Sección 3
+
+### Respuestas (V o F)
+
+1. **(V)** La unidad de análisis es una batería industrial.  
+2. **(V)** La variable de estudio es vida útil en horas.  
+3. **(V)** Se utilizará estadística inferencial.  
+4. **(F)** La población son las 80 baterías analizadas.  
+5. **(V)** El parámetro es la media poblacional de la vida útil.  
+6. **(V)** La variable es cuantitativa continua.  
+7. **(F)** La muestra son todas las baterías utilizadas en la empresa.  
+8. **(F)** Los datos usados son secundarios.  
+
+---
+
+### Justificación breve
+
+- **Unidad de análisis:** cada **batería industrial**.
+- **Variable de estudio:** **vida útil en horas** o **número de horas de funcionamiento hasta fallar**.
+- **Muestra:** **80 baterías** seleccionadas.
+- **Población:** todas las baterías industriales utilizadas en los robots de almacén que se desean estudiar.
+- **Parámetro:** la **media poblacional** de la vida útil.
+- **Tipo de variable:** **cuantitativa continua**, porque el tiempo en horas puede tomar distintos valores, incluso decimales.
+- **Tipo de datos:** **primarios**, porque se registran directamente a partir de la observación de las baterías.
+- **Estadística usada:** **inferencial**, porque con la muestra de 80 baterías se quiere estimar la media de toda la población.
+
+
