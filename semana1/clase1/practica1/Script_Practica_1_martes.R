@@ -48,16 +48,6 @@ sexo[bpeso_c]                  # extrae los elementos de sexo en esas mismas pos
 
 ##################
 
-matriz <- matrix(c(peso, peso_c),
-                 nrow = 5,
-                 ncol = 2)
-matriz
-
-dim(matriz)
-
-colnames(matriz) <- c("peso", "peso_c")
-rownames(matriz) <- c("rn1", "rn2", "rn3", "rn4", "rn5")
-
 ## Matrices ##
 
 matriz_p <- matrix(c(peso, peso_c),   # contenido de la matriz
