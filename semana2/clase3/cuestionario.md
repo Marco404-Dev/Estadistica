@@ -81,3 +81,59 @@ B) El tamaño de la muestra
 C) El tipo de gráfico  
 D) El porcentaje  
 **Respuesta: B**
+
+13. La frecuencia relativa se obtiene al:
+A) Sumar todas las frecuencias
+B) Dividir la frecuencia absoluta entre el total de datos
+C) Restar el dato mayor con el menor
+D) Multiplicar el número de clases por el rango
+**Respuesta: B**
+
+14. La frecuencia acumulada representa:
+A) La suma progresiva de las frecuencias
+B) El porcentaje de cada dato
+C) El valor central de los datos
+D) La diferencia entre clases
+**Respuesta: A**
+
+15. El rango de un conjunto de datos se calcula:
+A) Sumando todos los datos
+B) Restando el dato menor del mayor
+C) Multiplicando clases por frecuencia
+D) Dividiendo el total entre el número de datos
+**Respuesta: B**
+
+16. La marca de clase es:
+A) El límite superior
+B) El valor central de cada intervalo
+C) La frecuencia absoluta
+D) El total de observaciones
+**Respuesta: B**
+
+17. Un gráfico de barras es más adecuado cuando se desea:
+A) Mostrar proporciones de un total
+B) Comparar cantidades entre categorías
+C) Analizar valores extremos
+D) Estudiar relación entre dos variables cuantitativas
+**Respuesta: B**
+
+18. El gráfico circular se recomienda cuando:
+A) Se quiere representar partes de un total
+B) Se desea hallar valores extremos
+C) Se comparan intervalos continuos
+D) Se observa correlación entre variables
+**Respuesta: A**
+
+19. Si aumenta el tamaño de la muestra, el número de clases:
+A) Siempre disminuye
+B) Tiende a aumentar
+C) No cambia nunca
+D) Se vuelve cero
+**Respuesta: B**
+
+20. Una variable cualitativa nominal se representa mejor con:
+A) Histograma
+B) Dispersión
+C) Barras
+D) Caja y bigotes
+**Respuesta: C**
