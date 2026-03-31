@@ -1,4 +1,4 @@
-# Guion mejorado: Medidas de resumen
+# Medidas de resumen
 
 ## Descripción de la clase de hoy
 
