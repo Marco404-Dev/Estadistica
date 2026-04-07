@@ -8,6 +8,7 @@ base <- read.table(file.choose("base_clase3.csv"), header=T, sep=",")
 
 ##Información de base de datos
 
+
 ##Nombre de variables
 names(base)
 
@@ -99,12 +100,11 @@ lapply(base[, 2:4], sd)
 ##pastecs
 install.packages("pastecs")
 library (pastecs)
-stat.desc(base)
-
+ 
 ##moments
 install.packages("moments")
 library(moments)
-round(skewness(tiempo),digits=1) 
+round(skewness(tiempo),digits=1) ### coeficiente de variacion
 
 hist(tiempo,
      main="Tiempo total de mujeres evaluadas",
